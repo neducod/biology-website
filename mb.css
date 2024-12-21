@@ -42,7 +42,7 @@ color: rgb(231, 228, 228);}
 
 @media only screen and (max-width: 600px) {
     .wrapper{
-        width: 600px;
+        width: 300px;
     }
     .wrapper-content-header h3{
         font-size: 10px;
